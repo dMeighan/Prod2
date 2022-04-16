@@ -3,7 +3,6 @@
 /.bloop
 .bloop/**
 .vscode\settings.json
-target
-project
+/target
 project\target
 .metals/**
