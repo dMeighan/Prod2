@@ -3,5 +3,4 @@
 /.bloop
 .bloop/**
 .vscode\settings.json
-project\target
 .metals/**
