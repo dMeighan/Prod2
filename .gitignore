@@ -1,0 +1,6 @@
+.metals/metals.log
+.bsp\sbt.json
+.bloop
+.vscode\settings.json
+target
+project
