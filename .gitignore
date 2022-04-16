@@ -3,6 +3,7 @@
 /.bloop
 .bloop/**
 .vscode\settings.json
-/target
-project\target
 .metals/**
+insurance/target/.history
+insurance/target/scala-2.12/**
+insurance/target/streams/**
