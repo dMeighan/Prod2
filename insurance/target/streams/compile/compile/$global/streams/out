@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mrtom\Documents\Prod2\insurance\src\main\scala\example\generator.scala:32:40: value toArray is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m        val id = random.nextInt(10000).toArray[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
