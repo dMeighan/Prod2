@@ -8,7 +8,7 @@ import scala.util.Random
 
 object genData {
     def main(args: Array[String]):Unit = {
-        println(data())
+        println(name())
     }
 
     val random = new Random()
