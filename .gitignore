@@ -13,5 +13,6 @@ insurance/project/target/**
 project/target/**
 target/.history3
 target/**
-
+project/.bloop/**
+project/project/**
 
