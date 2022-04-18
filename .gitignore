@@ -7,4 +7,13 @@
 insurance/target/.history
 insurance/target/scala-2.12/**
 insurance/target/streams/**
-
+insurance/project/target/**
+.bsp/sbt.json
+.vscode/settings.json
+project/.bloop/**
+project/project**
+project/target/scala-2.12/**
+project/target/streams**
+target/scala-2.12/**
+target/.history3
+target/streams/**
